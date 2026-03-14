@@ -13,4 +13,4 @@ This project uses deep learning and computer vision to detect human faces and cl
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
-# EmotionSense
+
